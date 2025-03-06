@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\source\\repos\\TechFix\\TechFix.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3629D9-4E6E-442A-B1EE-53C4982EDBAA}|TechFix.API\\TechFix.API.csproj|c:\\users\\loq\\source\\repos\\techfix\\techfix.api\\techfix.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3629D9-4E6E-442A-B1EE-53C4982EDBAA}|TechFix.API\\TechFix.API.csproj|solutionrelative:techfix.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\source\\repos\\TechFix\\TechFix.API\\TechFix.API\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TechFix.API\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\source\\repos\\TechFix\\TechFix.API\\TechFix.API\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "TechFix.API\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:49:49.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
