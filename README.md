@@ -13,6 +13,7 @@ A Service-Oriented Computing (SOC) application designed to optimize TechFix’s 
 -   **Unit & Integration Testing:** Reliable test coverage to ensure system stability.
 
 ## 🏗️ **Project Structure**
+```plaintext
 TechFix-Procurement-System/
 ├── QuotationService/
 │   ├── Controllers/
@@ -35,6 +36,7 @@ TechFix-Procurement-System/
 │   └── Styles/
 ├── README.md
 └── .gitignore
+```
 
 ## 📘 **Installation & Setup**
 
